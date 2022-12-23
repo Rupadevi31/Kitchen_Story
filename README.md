@@ -4,8 +4,7 @@
 
 ## Kitchen Story an E-commerce Portal
 
-The code for this project is hosted at https://github.com/AbhishekJha02/Kitchen-Story-Project.git
-The project is developed by Abhishek Kumar Jha.
+The code for this project is hosted at https://github.com/Rupadevi31/Kitchen-Story.git
 # Project Details
 This project aims to design and develop an E-commerce website that lets people shop basic food items using Angular and Spring boot. It enables users to search and buy the available products. It was developed as a project of Phase-4 for the Full Stack Java Developer course.
 # Product Backlog:
@@ -50,7 +49,7 @@ This project aims to design and develop an E-commerce website that lets people s
 8.	Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
 # How to run the program
 • clone project
-o clone git : git clone https://github.com/AbhishekJha02/Kitchen-Story-Project.git
+o clone git : git clone https://github.com/Rupadevi31/Kitchen-Story.git
 • Import the “database\kitchen-story.sql” file to your database administration tool.
 • Go to “Back-end\Kitchen-Story\src\main\resources\application.properties” file, open it.
 • Edit some values of the database’ properties to be suit to your database administration tool.
